@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I am currently doing a diploma of IT and learning to become a full-stack developer.
+
+My skillsets include:
+- HTML
+- CSS
+- JavaScript (library/framework: React.js, Express.js)
+- Python (framwork: flask)
+- PostgreSQL
+- MongoDB
+
+I am an early childhood teacher transitioning into IT as a junior web developer. In my previous experience, I have managed to engage many children with special needs in learning with my team of educators. The attentiveness, communication, and cooperation are invaluable transferrable skills , and I believe the same connecting mindset could be applied in web development.
+
 <!--
 **Dandandan-mo/Dandandan-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
