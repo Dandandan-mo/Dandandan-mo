@@ -5,8 +5,8 @@ I am currently doing a diploma of IT and learning to become a full-stack develop
 My skillsets include:
 - HTML
 - CSS
-- JavaScript (library/framework: React.js, Express.js)
-- Python (framwork: flask)
+- JavaScript, React, Express
+- Python, Flask
 - PostgreSQL
 - MongoDB
 
